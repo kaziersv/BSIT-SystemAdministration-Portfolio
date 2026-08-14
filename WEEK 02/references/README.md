@@ -1,4 +1,4 @@
-Google Docs: https://docs.google.com/
-Draw.io: https://www.drawio.com/
-Git: https://git-scm.com/
-GitHub Desktop: https://desktop.github.com/
+- Google Docs: https://docs.google.com/
+- Draw.io: https://www.drawio.com/
+- Git: https://git-scm.com/
+- GitHub Desktop: https://desktop.github.com/
